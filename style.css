@@ -1,14 +1,31 @@
-body {
-}
-
-main#container {
-}
-
 h1.titulo {
+    color: rgb(254,178,109,255);
 }
 
-p.frase {
+
+body {
+    background-color: rgb(40,42,54,255);
+    text-align: center;
+    background-image: url(https://img.freepik.com/fotos-gratis/ceu-estrelado_1048-11828.jpg);
 }
 
-p.autor {
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cortitulo {
+    color: rgb(254,178,109,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.quadrado {
+    border: 10px solid rgb(68,71,90,255); 
+    padding: 20px; 
+    width: 500px;
+    height: 300px; 
+    display: inline-block; 
+    background-color: rgb(68,71,90,255);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
 }
