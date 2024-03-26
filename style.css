@@ -6,7 +6,7 @@ h1.titulo {
 body {
     background-color: rgb(40,42,54,255);
     text-align: center;
-    background-image: url(https://img.freepik.com/fotos-gratis/ceu-estrelado_1048-11828.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2023/05/24/17/58/background-8015439_1280.png);
 }
 
 p {
@@ -15,17 +15,16 @@ p {
 }
 
 .cortitulo {
-    color: rgb(254,178,109,255);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  #17664a;
+    font-family: 'Cedarville Cursive';
 }
 
 .quadrado {
-    border: 10px solid rgb(68,71,90,255); 
+    border: 10px solid  #44757c; 
     padding: 20px; 
     width: 500px;
     height: 300px; 
-    display: inline-block; 
-    background-color: rgb(68,71,90,255);
+    background-color:  #44757c;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-bottom: 20px;
 }
